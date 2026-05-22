@@ -1,0 +1,12 @@
+venv/
+node_modules/
+target/
+__pycache__/
+*.pkl
+*.log
+.env
+secrets/
+*.session
+*.session-journal
+accounts.txt
+cookies.txt
